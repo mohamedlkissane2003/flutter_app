@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462741887939",
+    "project_id": "cinema-et-series-tv",
+    "storage_bucket": "cinema-et-series-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462741887939:android:1bf9e921e9514491dabb76",
+        "android_client_info": {
+          "package_name": "com.example.cinemaseries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvJCc5cgbd98XjU6Mqws_cdsrY7yqFY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462741887939:android:1f53f8fc10955b32dabb76",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvJCc5cgbd98XjU6Mqws_cdsrY7yqFY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
