@@ -5,7 +5,7 @@ import '../models/tv_model.dart';
 import '../models/video_model.dart';
 
 class TmdbApiService {
-  static const String _apiKey = '3416ce8f0be4da5df6db860212c70425';
+  static const String _apiKey = 'YOUR_TMDB_API_KEY';
   static const String _baseUrl = 'https://api.themoviedb.org/3';
   static const String _language = 'fr-FR';
 
